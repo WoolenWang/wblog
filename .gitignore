@@ -21,4 +21,5 @@
 /config/application.yml
 /config/mongoid.yml
 /public/assets/*
+/.idea
 *.old
